@@ -1,6 +1,6 @@
 {
   "name": "@mohamadfeiz/r-button",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "react button component with dropdown ability and dynamic fields and material design style",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mohammadFeiz/r-button.git"
   },
-  "keywords": [],
+  "keywords": ["button","dropdown"],
   "author": "mohamad sharif feiz",
   "license": "ISC",
   "bugs": {
